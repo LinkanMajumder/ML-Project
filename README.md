@@ -1,2 +1,2 @@
 # ML-Project
-Whether you're just starting out or a seasoned pro, there's something here for you. Explore cool techniques, discover how things work, and get inspired by awesome machine learning applications. Let's learn and build together!
+In the repository, I will be updating with new ML projects, ranging from basic to complex. These projects encompass a variety of simple and foundational algorithms implemented on small datasets to aid in understanding core concepts.
